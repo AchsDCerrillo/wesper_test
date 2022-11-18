@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SquareGame</string>
+    <string name="time">Time: %02d : %02d : %02d</string>
+    <string name="score">Score: %s</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="machine_turn">Machine turn...</string>
+    <string name="human_turn">Your turn!</string>
+    <string name="game_over">Game Over</string>
+</resources>
